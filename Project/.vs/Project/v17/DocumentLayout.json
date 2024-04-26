@@ -1,0 +1,176 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E9A5F82A-EFDA-410F-BFBA-50B5A52476FB}|Project\\Project.vcxproj|C:\\Users\\User\\source\\repos\\Project\\Project\\\uD5C8\uB4E4\uB118\uAE30.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E9A5F82A-EFDA-410F-BFBA-50B5A52476FB}|Project\\Project.vcxproj|solutionrelative:Project\\\uD5C8\uB4E4\uB118\uAE30.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9A5F82A-EFDA-410F-BFBA-50B5A52476FB}|Project\\Project.vcxproj|C:\\Users\\User\\source\\repos\\Project\\Project\\\uD14C\uC2A4\uD2B8.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E9A5F82A-EFDA-410F-BFBA-50B5A52476FB}|Project\\Project.vcxproj|solutionrelative:Project\\\uD14C\uC2A4\uD2B8.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9A5F82A-EFDA-410F-BFBA-50B5A52476FB}|Project\\Project.vcxproj|C:\\Users\\User\\source\\repos\\Project\\Project\\\uC2A4\uB124\uC774\uD06C.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E9A5F82A-EFDA-410F-BFBA-50B5A52476FB}|Project\\Project.vcxproj|solutionrelative:Project\\\uC2A4\uB124\uC774\uD06C.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9A5F82A-EFDA-410F-BFBA-50B5A52476FB}|Project\\Project.vcxproj|C:\\Users\\User\\source\\repos\\Project\\Project\\\uD589\uB9E8.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E9A5F82A-EFDA-410F-BFBA-50B5A52476FB}|Project\\Project.vcxproj|solutionrelative:Project\\\uD589\uB9E8.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9A5F82A-EFDA-410F-BFBA-50B5A52476FB}|Project\\Project.vcxproj|C:\\Users\\User\\source\\repos\\Project\\Project\\\uAC8C\uC784\uC624\uBC84.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E9A5F82A-EFDA-410F-BFBA-50B5A52476FB}|Project\\Project.vcxproj|solutionrelative:Project\\\uAC8C\uC784\uC624\uBC84.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9A5F82A-EFDA-410F-BFBA-50B5A52476FB}|Project\\Project.vcxproj|C:\\Users\\User\\source\\repos\\Project\\Project\\\uC7A5\uC560\uBB3C\uD53C\uD558\uAE30.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E9A5F82A-EFDA-410F-BFBA-50B5A52476FB}|Project\\Project.vcxproj|solutionrelative:Project\\\uC7A5\uC560\uBB3C\uD53C\uD558\uAE30.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9A5F82A-EFDA-410F-BFBA-50B5A52476FB}|Project\\Project.vcxproj|C:\\Users\\User\\source\\repos\\Project\\Project\\\uC624\uBAA9.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E9A5F82A-EFDA-410F-BFBA-50B5A52476FB}|Project\\Project.vcxproj|solutionrelative:Project\\\uC624\uBAA9.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9A5F82A-EFDA-410F-BFBA-50B5A52476FB}|Project\\Project.vcxproj|C:\\Users\\User\\source\\repos\\Project\\Project\\\uBA54\uC778.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E9A5F82A-EFDA-410F-BFBA-50B5A52476FB}|Project\\Project.vcxproj|solutionrelative:Project\\\uBA54\uC778.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9A5F82A-EFDA-410F-BFBA-50B5A52476FB}|Project\\Project.vcxproj|C:\\Users\\User\\source\\repos\\Project\\Project\\\uD074\uB9AC\uC5B4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E9A5F82A-EFDA-410F-BFBA-50B5A52476FB}|Project\\Project.vcxproj|solutionrelative:Project\\\uD074\uB9AC\uC5B4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "\uD14C\uC2A4\uD2B8.c",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Project\\Project\\\uD14C\uC2A4\uD2B8.c",
+              "RelativeDocumentMoniker": "Project\\\uD14C\uC2A4\uD2B8.c",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Project\\Project\\\uD14C\uC2A4\uD2B8.c",
+              "RelativeToolTip": "Project\\\uD14C\uC2A4\uD2B8.c",
+              "ViewState": "AQIAAM4AAAAAAAAAAAAIwNwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-22T04:59:54.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\uD5C8\uB4E4\uB118\uAE30.c",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Project\\Project\\\uD5C8\uB4E4\uB118\uAE30.c",
+              "RelativeDocumentMoniker": "Project\\\uD5C8\uB4E4\uB118\uAE30.c",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Project\\Project\\\uD5C8\uB4E4\uB118\uAE30.c",
+              "RelativeToolTip": "Project\\\uD5C8\uB4E4\uB118\uAE30.c",
+              "ViewState": "AQIAAOQAAAAAAAAAAAAIwPUAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-24T00:06:29.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "\uC7A5\uC560\uBB3C\uD53C\uD558\uAE30.c",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Project\\Project\\\uC7A5\uC560\uBB3C\uD53C\uD558\uAE30.c",
+              "RelativeDocumentMoniker": "Project\\\uC7A5\uC560\uBB3C\uD53C\uD558\uAE30.c",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Project\\Project\\\uC7A5\uC560\uBB3C\uD53C\uD558\uAE30.c",
+              "RelativeToolTip": "Project\\\uC7A5\uC560\uBB3C\uD53C\uD558\uAE30.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-18T06:39:35.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "\uD589\uB9E8.c",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Project\\Project\\\uD589\uB9E8.c",
+              "RelativeDocumentMoniker": "Project\\\uD589\uB9E8.c",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Project\\Project\\\uD589\uB9E8.c",
+              "RelativeToolTip": "Project\\\uD589\uB9E8.c",
+              "ViewState": "AQIAAKkAAAAAAAAAAAAIwMAAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-19T05:36:47.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "\uC2A4\uB124\uC774\uD06C.c",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Project\\Project\\\uC2A4\uB124\uC774\uD06C.c",
+              "RelativeDocumentMoniker": "Project\\\uC2A4\uB124\uC774\uD06C.c",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Project\\Project\\\uC2A4\uB124\uC774\uD06C.c",
+              "RelativeToolTip": "Project\\\uC2A4\uB124\uC774\uD06C.c",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAowJ8AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-24T00:05:22.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "\uC624\uBAA9.c",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Project\\Project\\\uC624\uBAA9.c",
+              "RelativeDocumentMoniker": "Project\\\uC624\uBAA9.c",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Project\\Project\\\uC624\uBAA9.c",
+              "RelativeToolTip": "Project\\\uC624\uBAA9.c",
+              "ViewState": "AQIAAH0AAAAAAAAAAAAowI4AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-25T01:54:14.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "\uBA54\uC778.c",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Project\\Project\\\uBA54\uC778.c",
+              "RelativeDocumentMoniker": "Project\\\uBA54\uC778.c",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Project\\Project\\\uBA54\uC778.c",
+              "RelativeToolTip": "Project\\\uBA54\uC778.c",
+              "ViewState": "AQIAAGoAAAAAAAAAAAAkwHsAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-17T06:55:00.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "\uAC8C\uC784\uC624\uBC84.c",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Project\\Project\\\uAC8C\uC784\uC624\uBC84.c",
+              "RelativeDocumentMoniker": "Project\\\uAC8C\uC784\uC624\uBC84.c",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Project\\Project\\\uAC8C\uC784\uC624\uBC84.c",
+              "RelativeToolTip": "Project\\\uAC8C\uC784\uC624\uBC84.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-19T03:33:43.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "\uD074\uB9AC\uC5B4.c",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Project\\Project\\\uD074\uB9AC\uC5B4.c",
+              "RelativeDocumentMoniker": "Project\\\uD074\uB9AC\uC5B4.c",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Project\\Project\\\uD074\uB9AC\uC5B4.c",
+              "RelativeToolTip": "Project\\\uD074\uB9AC\uC5B4.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-22T05:58:10.568Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
