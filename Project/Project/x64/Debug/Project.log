@@ -1,5 +1,0 @@
-﻿  허들넘기.c
-C:\Users\User\source\repos\Project\Project\허들넘기.c(95,13): warning C4098: 'dino': 'void' 함수에서 값을 반환하고 있습니다.
-C:\Users\User\source\repos\Project\Project\허들넘기.c(126,5): warning C4013: 'gotoxy'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
-C:\Users\User\source\repos\Project\Project\허들넘기.c(243,9): warning C4013: 'over'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
-  Project.vcxproj -> C:\Users\User\source\repos\Project\x64\Debug\Project.exe
